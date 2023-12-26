@@ -1,3 +1,14 @@
+<a href="https://github.com/Soumyojyotisaha">
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Open+Source+Contributor;Tech+Content+Writer;Game+Developer+Unity;Data+Structures+and+Algorithm;Competitive+Programming;Tech+Geek" />
+    </a>
+    <div align=center>
+    <a href="https://github.com/Soumyojyotisaha">
+    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+    </a>
+    <h1 align="center">Hi 👋, I'm Soumyojyoti Saha</h1>
+    
+<b>Glad to see you here!</b>
+
 # 💫 About Me:
 🚀 Passionate Data Science Intern at HexaHealth 🏥 | Growth Manager 📈 at PrepInsta | B.Tech in CS 🎓 (VIT) | WebDev & AI Enthusiast 🤖 | Transforming data into actionable insights | Committed to making a positive impact 🌱 | Let's connect and unleash the power of data! 💼📊 #DataScience #MachineLearning #Growth #TechForGood
 

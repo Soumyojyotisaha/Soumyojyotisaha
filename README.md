@@ -26,5 +26,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumyojyotisaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📈 Productivity Stats:
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyojyotisaha&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
+
+[![Soumyojyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyojyotisaha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+
+![footer](assets/footer.webp)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

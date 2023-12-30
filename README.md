@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Data Science Intern at HexaHealth 🏥 | Growth Manager 📈 at PrepInsta | B.Tech in CS 🎓 (VIT) | WebDev & AI Enthusiast 🤖 | Transforming data into actionable insights | Committed to making a positive impact 🌱 | Let's connect and unleash the power of data! 💼📊 #DataScience #MachineLearning #Growth #TechForGood
+🚀 Passionate Full Stack AI/ML Intern at HexaHealth 🏥 | Growth Manager 📈 at PrepInsta | B.Tech in CS 🎓 (VIT) | WebDev & AI Enthusiast 🤖 | Transforming data into actionable insights | Committed to making a positive impact 🌱 | Let's connect and unleash the power of data! 💼📊 #DataScience #MachineLearning #Growth #TechForGood #Generative AI
 
 
 ## 🌐 Socials:

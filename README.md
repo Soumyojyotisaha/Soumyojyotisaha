@@ -33,7 +33,7 @@
   </tr> 
 </table>
 
-[![Soumyojyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyojyotisaha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soumyojyoti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyojyotisaha&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

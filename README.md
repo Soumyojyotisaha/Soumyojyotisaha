@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Full Stack AI/ML Intern at HexaHealth 🏥 | Growth Manager 📈 at PrepInsta | B.Tech in CS 🎓 (VIT) | WebDev & AI Enthusiast 🤖 | Transforming data into actionable insights | Committed to making a positive impact 🌱 | Let's connect and unleash the power of data! 💼📊 #DataScience #MachineLearning #Growth #TechForGood #Generative AI
-
+🚀 Passionate Full Stack AI/ML Intern at HexaHealth 🏥 | Growth Manager 📈 at PrepInsta | B.Tech in CS 🎓 (VIT) | WebDev & AI Enthusiast 🤖 | Transforming data into actionable insights | Committed to making a positive impact 🌱 | Let's connect and unleash the power of data! 💼📊 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumyojyoti-saha-404940234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 

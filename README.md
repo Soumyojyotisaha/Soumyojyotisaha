@@ -42,7 +42,7 @@
 ---
 <h2 align="center">Show some ❤ by starring some of the repositories!</h2>
 
-![footer](https://github.com/Soumyojyotisaha/Git-Commands/blob/main/f6e105af-1038-46b0-bae8-1ce3096deeaa.jpg)
+![footer](https://github.com/Soumyojyotisaha/Mean-Reversion-AWS-Lambda/blob/main/f6e105af-1038-46b0-bae8-1ce3096deeaa.jpg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
